@@ -74,7 +74,7 @@ def spammer(email):
             sys.stdout.flush()
             Write.Print(f"{email}\n", Colors.yellow_to_red, interval=0.000)
             spammer_title()
-
+    spammer(email)
 def main():
     Write.Print('''
 
