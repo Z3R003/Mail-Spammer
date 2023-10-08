@@ -1,6 +1,7 @@
 # 🚀Mail Spammer🚀
 Mail Spammer Is a tool that spams a email using kick verification code! You only need proxies to use the tool nothing else! Enjoy and do not forget to give it a star. https://discord.gg/rDp45VHxa
 ## 📹 Preview
+https://github.com/Z3R003/Mail-Spammer/assets/139226148/6209b107-f0ed-4dec-91ad-bcbfe7aa6488
 ![preview](Preview.PNG)
 ## 🔥 Features
 ```
