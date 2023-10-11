@@ -25,5 +25,5 @@ This project is licensed under the GPL General Public License v3.0 License
 This github repository is only for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if anything happens to you.
 
 ## ❓ Questions / Issues?
-- Contact me on Discord: z3r003
-- Discord Server: https://discord.gg/rDp45VHxa
+- Contact me on Discord: real_z3r003
+- Discord Server: https://discord.gg/bVy4mZXX
